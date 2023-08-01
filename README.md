@@ -1,4 +1,4 @@
-#DiverseGem
+# DiverseGem
 ##Created in 2014
 
 Gameplay controls
