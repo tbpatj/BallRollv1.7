@@ -66,7 +66,7 @@ _You can find the surface color properties if you hover you mouse near the botto
 <kbd>K</kbd> - smooths the normals of connected triangles at a specific position
 
 Schematic Controls
-You can find the schematic editor in the paused menu, in the top right it will be a blue button, click on that and you will find schematics you can load in, load one up and push <kbd>esc</kbd> to exit the pause menu
+You can find the schematic editor in the paused menu, in the top right it will be a blue button, click on that and you will find schematics you can load in, load one up and push <kbd>esc</kbd> to exit the pause menus
 <kbd>,</kbd> (comma) - clear the currently loaded schematic
 <kbd>.</kbd> (period) - load up a shape as the schematic
 <kbd>V</kbd> - paste in the currently loaded schematic, (you'll know when a schematic is loaded as it will appear transparent at the cursor)
