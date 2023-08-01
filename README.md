@@ -1,6 +1,6 @@
 # DiverseGem
 
-![Alt text](assets/pictures/DiverseGemLogo2.PNG)
+![Diverse Gem Logo](assets/pictures/DiverseGemLogo2.PNG)
 <sub>Created in 2014</sub>
 
 ## Description
@@ -84,4 +84,8 @@ Fun Additions<br />
 <kbd>/</kbd> - render lightning from cursor to player<br />
 <kbd>semi-colon</kbd> - rotate the viewport around the z-axis (y-axis in other engines)<br />
 
+## Screenshots
+
+![Storyline Gif](assets/gifs/Warning-BallRoll.gif)
+![Ball Popping Gif](assets/gifs/Pop-BallRoll.gif)
 <sub> Uses a version of LWJGL-2.9.1 </sub>
