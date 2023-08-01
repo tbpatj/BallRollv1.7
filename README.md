@@ -1,17 +1,21 @@
-#DiverseGem
-##Created in 2014
+# DiverseGem
 
-Gameplay controls
+<sub>Created in 2014</sub>
 
-W, A, S, D - Move
-Space - Jump
-Mousewheel - change 3rd person perspective / 1st person perspective
+## Gameplay controls
 
-Additional Controls
-R - Save power ball position
-G - Respawn power ball to last saved position
+    <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> - Move
+    <kbd>Space</kbd> - Jump
+    _Mousewheel_ - change 3rd person perspective / 1st person perspective
 
-Editor
-To enter the editor press 0, while the application is in the intro screen
+## Additional Controls
 
-Uses a version of LWJGL-2.9.1
+    <kbd>R</kbd> - Save power ball position
+    <kbd>G</kbd> - Respawn power ball to last saved position
+    <kbd>Y</kbd> + <kbd>L</kbd> - Reset level
+
+## Editor
+
+    To enter the editor press <kbd>0</kbd>, while the application is in the intro screen
+
+<sub> Uses a version of LWJGL-2.9.1 </sub>
