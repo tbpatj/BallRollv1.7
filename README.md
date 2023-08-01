@@ -1,5 +1,6 @@
 # DiverseGem
 
+![Alt text](assets/pictures/DiverseGemLogo2.PNG)
 <sub>Created in 2014</sub>
 
 ## Gameplay controls
