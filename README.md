@@ -10,7 +10,6 @@ I made this game in 2014 for a club competition in jr high, I had a little bit o
 ## Installation and Setup
 
 DiverseGem Runs on Java, you can download a version of the Java Runtime Environment 8u341 needed [here](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
-//(https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)<br />
 
 Once java is installed you can open the associated systems (windows64, mac, etc) .jar file.
 The .jar files are located under /game<br />
